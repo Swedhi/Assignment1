@@ -32,3 +32,4 @@ Implementation of the assignment task from the specification:
    - Click **Log In** with the prefilled demo credentials (`test@test.com` / `test`).
    - You are routed to the **Dashboard**, and the Header displays your name and the **Logout** link.
    - Click **Logout** (in the Header or Dashboard) to execute the Logout component and clear the session via Redux.
+# Assignment1
